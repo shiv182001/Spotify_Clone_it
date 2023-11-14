@@ -29,6 +29,3 @@ Once the Spotify clone is open in your browser, You can then click the play butt
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e37fba97-0766-4626-9212-06a9fa3e5f00/deploy-status)](https://app.netlify.com/sites/animated-marshmallow-d90790/deploys)
 
 
-## Screenshot-
-
-![image](https://user-images.githubusercontent.com/48729682/222124168-70e510a9-0232-4c71-9939-cd7e8c512fcc.png)
